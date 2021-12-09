@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carloshgomez
 - 👀 I’m interested in python 
-- 🌱 I’m currently learning Git/GitHub - Javascript
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on any start project with python
 - 📫 How to reach me:
   - carloshgomez@me.com
